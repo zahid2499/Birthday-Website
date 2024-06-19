@@ -18,5 +18,7 @@ Open index.html in your browser to view the birthday site.
 Fonts: The site uses 'Happy Monkey' font from Google Fonts. You can change it in the HTML and CSS files.
 Colors: The background is a gradient from #a2d2ff to #EFB0C9. Feel free to modify the colors in the CSS file.
 Images and GIFs: Replace the images in the "images" folder with your own to personalize the site.
+## License
+This project is licensed under the MIT License.
 ## Credits
 This project was created by following a tutorial from Scrimba. You can find the tutorial [here](https://v2.scrimba.com/learn-html-and-css-c0p).
