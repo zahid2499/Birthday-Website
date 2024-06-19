@@ -1,4 +1,4 @@
-# Birthday GIFt Site
+# Birthday Gift Site
 This is a fun HTML and CSS project that creates a birthday celebration webpage for a friend named Sam. The page includes images, GIFs, and special effects to make the celebration more lively.
 
 ## Features
