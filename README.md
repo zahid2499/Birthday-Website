@@ -11,7 +11,7 @@ CSS
 ## Installation
 Clone the repository:
 ```sh
-git clone https://github.com/yourusername/birthday-gift-site.git
+https://github.com/zahid2499/Birthday-Website.git
 ```
 Open index.html in your browser to view the birthday site.
 ## Customization
